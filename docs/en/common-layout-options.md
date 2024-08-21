@@ -110,7 +110,7 @@ type LegendOptions = {
 
 ```js
 const options = {
-  legned: {
+  legend: {
     width: 200
   }
 };
